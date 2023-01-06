@@ -1,5 +1,5 @@
 # BostonML
-Implementing LinearRegression model to boston dataset from sklearn
+Implementing LinearRegression model on boston dataset using sci-kit learn.
 
 
 ### Boston House Pricing Prediction 
